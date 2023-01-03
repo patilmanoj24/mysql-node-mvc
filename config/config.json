@@ -1,0 +1,8 @@
+{
+    "myDb": {
+		"dbHostname": "localhost",
+		"dbUsername": "root",
+		"dbPassword": "root",
+		"dbName": "YOUR_DATABASE_NAME"
+	}
+}
